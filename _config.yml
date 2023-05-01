@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yi LIU"
+title                    : "Sarah LI"
 title_separator          : "-"
-name                     : &name "Yi LIU"
+name                     : &name "Sarah LI"
 description              : &description "personal description"
-url                      : https://PeterLau61.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sarahlii.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "PeterLau61/PeterLau61.github.io"
+repository               : "SarahLii/SarahLii.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yi LIU"
+  name             : "Sarah LI"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student in CSE Department at CUHK"
+  bio              : "Quantitative Risk Analyst at Natixis Corporate & Investment Banking"
   location         : "Hong Kong SAR"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=uqFwTkIAAAAJ"
-  email            : "1155183733@link.cuhk.edu.hk"
+  googlescholar    : #"https://scholar.google.com/citations?hl=zh-CN&user=uqFwTkIAAAAJ"
+  email            : "sarah.quant2023@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "PeterLau61"
+  github           : "SarahLii"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yi-liu-801403204/"
+  linkedin         : "xingyulee/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
