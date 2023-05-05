@@ -227,6 +227,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _C++Fundation -> C++ Fundation
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+      
    _portfolio
   - scope:
       path: ""
