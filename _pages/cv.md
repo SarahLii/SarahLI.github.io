@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CVV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Sep. 2022 - Present: Quantitative Risk Analyst @ Natixis Corporate & Investment Banking, Hong Kong
+# Sep. 2022 - Present: Quantitative Risk Analyst @ Natixis Corporate & Investment Banking, Hong Kong
   * ESG Project: Climate Risk Assessment (Project Manager)
     • Communicate with FO, LoD1&2, and IT, design CRST framework & methodology for €10Bn+ APAC portfolio.
     • Pitch pilot exercise methodology and result to CRO & Group Head Office, and $1.5M budget was approved.
@@ -49,14 +49,14 @@ Work experience
     • Design indicators based on the ST results to monitor risk (TB CONCREAT)
 
 
-* Institute for Future Finance in Shenzhen, Shenzhen, China (Goverment Institution) Jun 2020 – Jul 2020
+# Institute for Future Finance in Shenzhen, Shenzhen, China (Goverment Institution) Jun 2020 – Jul 2020
 Intern, Research Assistant
 • Independently completed FinTech research reports, published them on public platforms and supported local
 government decisions.
 • Tracked cutting-edge trends in the financial technology field and collected information from the latest papers
 and government policies concerning blockchain, cryptocurrency, and artificial intelligence.
 
-* Ping An Insurance (Group) Co. of China Ltd., Shenzhen, China Oct 2019 – Feb 2020
+# Ping An Insurance (Group) Co. of China Ltd., Shenzhen, China Oct 2019 – Feb 2020
 Intern, Risk Assistant in Systematic Risk Management Team
 
 
