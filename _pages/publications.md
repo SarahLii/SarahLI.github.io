@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "C++ Foundation"
+permalink: /C++Foundation/
 author_profile: true
 ---
 
