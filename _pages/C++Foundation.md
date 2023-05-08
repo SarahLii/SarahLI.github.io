@@ -1,10 +1,11 @@
 ---
 layout: archive
 title: "C++ Foundation"
-permalink: /C++Foundation/
+permalink: /Cpp/
 author_profile: true
 ---
-% modify this from Publication
+Recording my C++ study process here, and welcome to correct or have a conservation!
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
