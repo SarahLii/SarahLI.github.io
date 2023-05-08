@@ -2,9 +2,11 @@
 main:
   - title: "C++ Foundation"
     url: /cpp/
+    # publications
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Deep Learning"
+    url: /dl/    
+    # talks
 
   # - title: "Teaching"
   #   url: /teaching/    
@@ -14,9 +16,6 @@ main:
         
   #- title: "Deep Learning"
    #  url: /year-archive/
-    
-  - title: "Deep Learning"
-    url: /DeepLearning/
     
   - title: "CV"
     url: /cv/
