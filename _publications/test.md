@@ -1,7 +1,7 @@
 ---
 title: "Week Process -  Arrays + C++ Fundations"
 collection: publication
-permalink: /cpp/test
+permalink: /publication/test
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-05-05
 venue: 'Week 1'
