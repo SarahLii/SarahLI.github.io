@@ -128,6 +128,6 @@ int main() {
 } 
 ```
 
-### [Course Video (1~15/314)](https://www.bilibili.com/video/BV1et411b73Z/ p=15&spm_id_from=333.880.my_history.page.click&vd_source=9109f597d75f2b026dd0d0c6b2a8e61e)
+### [Course Video - 黑马程序员匠心之作|C++教程从0到1入门编程,学习编程不再难】(1~15/314)](https://www.bilibili.com/video/BV1et411b73Z/?p=15&share_source=copy_web&vd_source=a50a021a72570cf19f8159ff96b36111)
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
