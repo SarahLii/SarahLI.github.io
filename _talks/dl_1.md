@@ -1,5 +1,5 @@
 ---
-title: "1. Neural Networks and Deep Learning"
+title: "1 Neural Networks and Deep Learning"
 collection: talks
 type: "Deep Learning"
 permalink: /dl/2023-05-08-course-1
