@@ -1,5 +1,5 @@
 ---
-title: "4. Convolutional Neural Networks"
+title: "4 Convolutional Neural Networks"
 collection: talks
 type: "Deep Learning"
 permalink: /dl/2023-05-08-course-4
