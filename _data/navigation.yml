@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "C++ Foundation"
-    url: /C++Foundation/
+    url: /cpp/
 
   - title: "Talks"
     url: /talks/    
