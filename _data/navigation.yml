@@ -12,8 +12,11 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
+  #- title: "Deep Learning"
+   #  url: /year-archive/
+    
   - title: "Deep Learning"
-     url: /year-archive/
+    url: /Deep Learning/
     
   - title: "CV"
     url: /cv/
