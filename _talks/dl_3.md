@@ -1,5 +1,5 @@
 ---
-title: "3. Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization"
+title: "3 Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization"
 collection: talks
 type: "Deep Learning"
 permalink: /dl/2023-05-08-course-3
