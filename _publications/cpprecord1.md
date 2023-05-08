@@ -1,7 +1,7 @@
 ---
 title: "C++ Fundation: Annotation, I/OS, Variables and Data Types"
 collection: publications
-permalink: /publication/record1
+permalink: /cpp/record1
 excerpt: 'This is the 1st record of my C++ study.'
 date: 2023-05-08
 venue: 'May 8'
