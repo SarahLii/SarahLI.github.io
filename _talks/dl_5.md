@@ -1,5 +1,5 @@
 ---
-title: "5. Sequence Models"
+title: "5 Sequence Models"
 collection: talks
 type: "Deep Learning"
 permalink: /dl/2023-05-08-course-5
