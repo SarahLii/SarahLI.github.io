@@ -1,10 +1,10 @@
 ---
-title: "1 Neural Networks and Deep Learning"
+title: "Neural Networks and Deep Learning"
 collection: talks
 type: "Deep Learning"
 permalink: /dl/2023-05-08-course-1
 venue: "Algo"
-date: 2023-05-08
+date: 2023-05-01
 location: "Kowloon Tung, Hong Kong"
 ---
 I like study deep learning!
