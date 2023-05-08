@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "C++ Foundation"
-permalink: /Cpp/
+permalink: /cpp/
 author_profile: true
 ---
 Recording my C++ study process here, and welcome to correct or have a conservation!
