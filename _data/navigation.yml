@@ -3,8 +3,8 @@ main:
   - title: "C++ Foundation"
     url: /C++Foundation/
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Talks"
+    url: /talks/    
 
   # - title: "Teaching"
   #   url: /teaching/    
