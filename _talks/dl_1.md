@@ -7,7 +7,7 @@ venue: "Algo"
 date: 2023-05-08
 location: "Kowloon Tung, Hong Kong"
 ---
-
+I like study deep learning!
 [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
 
-I like study deep learning!
+
