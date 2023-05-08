@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/record1
 excerpt: 'This is the 1st record of my C++ study.'
 date: 2023-05-08
-venue: '2023-05-08'
+venue: 'May 8'
 ---
 
 
