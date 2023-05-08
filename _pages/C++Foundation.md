@@ -10,4 +10,6 @@ Recording my C++ study process here, and welcome to correct or have a conservati
 
 {% include base_path %}
 
-{% for post in site.publications reversed %} {% include archive-single.html %} {% endfor %}
+{% for post in site.talks reversed %}
+  {% include archive-single.html %}
+{% endfor %}
