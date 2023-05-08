@@ -1,6 +1,6 @@
 ---
 title: "Week Process -  Arrays + C++ Fundations"
-collection: cpp
+collection: publication
 permalink: /cpp/test
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-05-05
