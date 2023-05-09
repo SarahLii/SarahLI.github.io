@@ -9,34 +9,6 @@ location: "Kowloon Tung, Hong Kong"
 ---
 Process 50%
 
-.wrapper {
-  display: flex;
-  justify-content: space-between;
-}
-
-.main,
-.sidebar {
-  border: 3px solid black;
-  padding: 15px;
-  background-color: #fff;
-}
-
-.main {
-  width: 60%;
-  height: 150vh;
-}
-
-.sidebar {
-  width: 25%;
-  height: 25vh;
-}
-
-body {
-  background-color: #ccc;
-  font-family: sans-serif;
-  padding: 10px;
-}
-
 <div class="wrapper">
   <div class="main">
     Main content
