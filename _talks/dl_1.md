@@ -19,4 +19,5 @@ Second week is very important fundations for both ML & DL.
 forward & back propogation 
 
 remind: Treasury trading now
+
 [Coursera - Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
