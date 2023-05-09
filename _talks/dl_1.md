@@ -8,14 +8,9 @@ date: 2023-05-01
 location: "Kowloon Tung, Hong Kong"
 ---
 Process 50%
-<link rel="menusheet" href="menu.css">
+<link rel="stylesheet" href="menu.css">
 
-- [Introduction](#introduction)
-- [Section One](#section-one)
-  - [Subsection One A](#subsection-one-a)
-  - [Subsection One A](#subsection-one-b)
-
-<div class="sidebar-menu">
+<div class="menu">
   <ul>
     <li><a href="#introduction">Introduction</a></li>
     <li><a href="#section-one">Section One</a>
@@ -26,6 +21,14 @@ Process 50%
     </li>
   </ul>
 </div>
+
+- [Introduction](#introduction)
+- [Section One](#section-one)
+  - [Subsection One A](#subsection-one-a)
+  - [Subsection One A](#subsection-one-b)
+
+
+
 ### Introduction
 #### Section One
 ##### Subsection One A
