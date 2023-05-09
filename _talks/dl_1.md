@@ -9,6 +9,7 @@ location: "Kowloon Tung, Hong Kong"
 ---
 Process 50%
 
+<link rel="stylesheet" href="menu.css">
 <div class="wrapper">
   <div class="main">
     <h2>Main content</h2>
