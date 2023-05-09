@@ -8,19 +8,23 @@ date: 2023-05-01
 location: "Kowloon Tung, Hong Kong"
 ---
 Process 50%
-<link rel="stylesheet" href="menu.css">
 
-<div class="menu">
-  <ul>
-    <li><a href="#introduction">Introduction</a></li>
-    <li><a href="#section-one">Section One</a>
-      <ul>
-        <li><a href="#subsection-one-a">Subsection One A</a></li>
-        <li><a href="#subsection-one-b">Subsection One B</a></li>
-      </ul>
-    </li>
-  </ul>
-</div>
+<div class="wm-sticky-column"></div>
+<script>
+(function() {
+  function initSticky() {
+    let stickyStarts = document.querySelectorAll('.wm-sticky-column');
+
+    stickyStarts.forEach(el => {
+      let col = el.closest('.col');
+      if (!col) return;
+      col.classList.add('wm-sticky-column');
+    });
+  }
+
+  window.addEventListener('DOMContentLoaded', initSticky);
+}());
+</script>
 
 - [Introduction](#introduction)
 - [Section One](#section-one)
