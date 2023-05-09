@@ -1,30 +1,26 @@
-.sidebar-menu {
-  background-color: #f8f8f8;
-  border: 1px solid #ddd;
-  padding: 10px;
-  margin-bottom: 20px;
-  float: right; /* or left */
+.menu {
+  float: right;
   width: 200px; /* or adjust to your desired width */
 }
 
-.sidebar-menu ul {
+.menu ul {
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
-.sidebar-menu li {
+.menu li {
   margin-bottom: 5px;
 }
 
-.sidebar-menu a {
+.menu a {
   display: block;
   padding: 5px;
   color: #333;
   text-decoration: none;
 }
 
-.sidebar-menu a:hover {
+.menu a:hover {
   background-color: #333;
   color: #fff;
 }
