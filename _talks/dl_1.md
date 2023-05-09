@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="menu.css">
+
 ---
 title: "1 Neural Networks and Deep Learning"
 collection: talks
@@ -9,6 +9,7 @@ date: 2023-05-01
 location: "Kowloon Tung, Hong Kong"
 ---
 Process 50%
+<link rel="stylesheet" href="menu.css">
 - [Introduction](#introduction)
 - [Section One](#section-one)
   - [Subsection One A](#subsection-one-a)
