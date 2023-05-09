@@ -9,22 +9,42 @@ location: "Kowloon Tung, Hong Kong"
 ---
 Process 50%
 
-<div class="wm-sticky-column"></div>
-<script>
-(function() {
-  function initSticky() {
-    let stickyStarts = document.querySelectorAll('.wm-sticky-column');
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+}
 
-    stickyStarts.forEach(el => {
-      let col = el.closest('.col');
-      if (!col) return;
-      col.classList.add('wm-sticky-column');
-    });
-  }
+.main,
+.sidebar {
+  border: 3px solid black;
+  padding: 15px;
+  background-color: #fff;
+}
 
-  window.addEventListener('DOMContentLoaded', initSticky);
-}());
-</script>
+.main {
+  width: 60%;
+  height: 150vh;
+}
+
+.sidebar {
+  width: 25%;
+  height: 25vh;
+}
+
+body {
+  background-color: #ccc;
+  font-family: sans-serif;
+  padding: 10px;
+}
+
+<div class="wrapper">
+  <div class="main">
+    Main content
+  </div>
+  <div class="sidebar">
+    Sticky sidebar
+  </div>
+</div>
 
 - [Introduction](#introduction)
 - [Section One](#section-one)
